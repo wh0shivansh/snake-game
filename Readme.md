@@ -1,4 +1,4 @@
-Hello Readers I'm Shivansh Upadhyay, not much introduction about me lets move to the important part directly.
+# Snake-Game-C++
 
 if(You are a beginner)
 {

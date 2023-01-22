@@ -1,4 +1,4 @@
-# Snake-Game-C++
+# Snake-Game-C-Programming
 
 if(You are a beginner)
 {
